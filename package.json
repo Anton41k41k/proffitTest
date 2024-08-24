@@ -2,6 +2,7 @@
   "name": "proffittest",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ваш_ник.github.io/имя_репозитория",
   "type": "module",
   "homepage": "https://anton41k41k.github.io/proffitTest/",
   "scripts": {
